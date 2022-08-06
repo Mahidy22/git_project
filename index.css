@@ -3,4 +3,6 @@ h1{
     background: #000;
     padding:10px;
     border-radius: 10px;
+    width:500px;
+    margin:auto
 }
